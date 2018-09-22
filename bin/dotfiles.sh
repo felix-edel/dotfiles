@@ -15,6 +15,26 @@ error() { echo "-- [ERROR] ${*}" 1>&2 && false; }
 info() { echo "-- [INFO] ${*}" 1>&2; }
 warning() { echo "-- [WARNING] ${*}" 1>&2; }
 
+# TODO
+# 1. Install ports (and enable necessary 'default' settings)
+#    -> coreutils, tree, python37, vim, macvim, grep, ..
+# 2. Install tpm (tmux plugin manager)
+# 3. Install powerfont (clone repo, run ./install.sh, delete repo)
+# 4. Install python3 and create tools virtualenv
+# 5. Symlink executables from the tools virtualenv to ~/bin
+# 6. Symlink necessary configuration files (.vimrc, .zshrc, .tigrc, .tmux.conf)
+# 7. Create the swapfiles dir for vim ($HOME/.vim/swapfiles)
+
+# Requirements:
+# 1. Install/update xcode and the xcode command line tools
+#    $ xcode-select --install
+# 2. Accept the licence agreement
+#    $ xcodebuild -license
+
+# Thinks you need to do manually (afterwards):
+# 1. Create a ~/.gitconfig_local file with private settings like username, email, gpg key
+# 2. Crate a gpg key for GitHub
+
 print_help() {
     echo "Usage:
 
