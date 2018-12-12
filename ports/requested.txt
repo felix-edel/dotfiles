@@ -1,0 +1,11 @@
+coreutils
+gnupg2
+grep
+MacVim
+pacvim
+tig
+tmux
+tmux-pasteboard
+tree
+vim
+zsh
