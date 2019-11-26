@@ -82,3 +82,10 @@ case ${arg1} in
         ;;
 esac
 shift
+
+
+# TODO Install ports
+
+# If ports cannot be installed and/or some compile error occurs, try:
+# $ xcode-select --install
+# $ sudo xcode-select -switch /Library/Developer/CommandLineTools

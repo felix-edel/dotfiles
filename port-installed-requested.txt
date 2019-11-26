@@ -1,0 +1,88 @@
+The following ports are currently installed:
+  bat @0.11.0_0
+  bat @0.12.1_0 (active)
+  ctags @5.8_2 (active)
+  git @2.17.0_0+credential_osxkeychain+doc+pcre+perl5_26
+  git @2.18.0_0+credential_osxkeychain+doc+pcre+perl5_26
+  git @2.20.1_1+credential_osxkeychain+diff_highlight+doc+pcre+perl5_26
+  git @2.21.0_2+credential_osxkeychain+diff_highlight+doc+pcre+perl5_26
+  git @2.22.0_0+credential_osxkeychain+diff_highlight+doc+pcre+perl5_26
+  git @2.22.1_0+credential_osxkeychain+diff_highlight+doc+pcre+perl5_26
+  git @2.23.0_0+credential_osxkeychain+diff_highlight+doc+pcre+perl5_26
+  git @2.23.0_1+credential_osxkeychain+diff_highlight+doc+pcre+perl5_26
+  git @2.24.0_0+credential_osxkeychain+diff_highlight+doc+pcre+perl5_26 (active)
+  git-lfs @2.7.1_0
+  git-lfs @2.7.2_0
+  git-lfs @2.9.0_1 (active)
+  gnupg2 @2.2.5_0+pinentry_mac
+  gnupg2 @2.2.8_0+pinentry_mac
+  gnupg2 @2.2.9_0+pinentry_mac
+  gnupg2 @2.2.11_0+openldap+pinentry_mac
+  gnupg2 @2.2.12_1+openldap+pinentry_mac
+  gnupg2 @2.2.17_0+openldap+pinentry_mac (active)
+  gnutar @1.32_0 (active)
+  graphviz @2.40.1_1+pangocairo+x11
+  graphviz @2.40.1_2+pangocairo+x11 (active)
+  graphviz-gui @2.40.1_0
+  graphviz-gui @2.40.1_1 (active)
+  grep @3.1_0
+  grep @3.3_0 (active)
+  htop @2.1.0_0
+  htop @2.2.0_0 (active)
+  hub @2.2.9_0
+  hub @2.4.0_0
+  hub @2.5.0_0
+  hub @2.7.0_0
+  hub @2.7.1_0
+  hub @2.12.1_0
+  hub @2.12.3_0
+  hub @2.12.8_0
+  hub @2.13.0_0 (active)
+  iTerm2 @3.1.5_1
+  iTerm2 @3.1.6_0
+  iTerm2 @3.2.0_0
+  KeePassXC @2.3.1_0
+  KeePassXC @2.3.3_0
+  KeePassXC @2.3.4_0
+  KeePassXC @2.4.3_0
+  KeePassXC @2.5.0_0
+  KeePassXC @2.5.1_0 (active)
+  kubectl @1.12.2_0
+  kubectl @1.15.0_0
+  kubectl-1.15 @1.15.1_0
+  kubectl-1.15 @1.15.5_0 (active)
+  MacVim @8.0.snapshot145_1+huge+python36
+  MacVim @8.1.snapshot147_1+huge+python36
+  MacVim @8.1.snapshot153_0+huge+python36
+  MacVim @8.1.snapshot155_1+huge+python36 (active)
+  npm5 @5.8.0_0
+  npm5 @5.10.0_0
+  npm5 @5.10.0_1 (active)
+  py38-pip @19.3.1_0 (active)
+  python36 @3.6.5_0
+  python36 @3.6.6_0
+  python36 @3.6.8_0
+  python36 @3.6.9_0
+  python36 @3.6.9_3 (active)
+  python38 @3.8.0_0 (active)
+  sshpass @1.06_0 (active)
+  tig @2.3.3_0
+  tig @2.4.1_0 (active)
+  tmux @2.6_0
+  tmux @2.7_0
+  tmux @2.8_0
+  tmux @2.9a_0
+  tmux @2.9a_1 (active)
+  tmux-pasteboard @2.6_0
+  tmux-pasteboard @2.7_0
+  tmux-pasteboard @2.8_0 (active)
+  tree @1.7.0_0
+  tree @1.8.0_0 (active)
+  vim @8.0.1522_0+huge+python36
+  vim @8.1.0022_1+huge+python36
+  vim @8.1.0577_0+huge+python36
+  vim @8.1.1368_0+huge+python36 (active)
+  zsh @5.4.2_1
+  zsh @5.5.1_1
+  zsh @5.6.2_0
+  zsh @5.7.1_0 (active)
