@@ -15,6 +15,7 @@ Plugin 'davidhalter/jedi-vim'
 Plugin 'w0rp/ale'
 Plugin 'timothycrosley/isort'
 Plugin 'taglist.vim'
+Plugin 'psf/black'
 
 " Color schemes
 Plugin 'nanotech/jellybeans.vim'
@@ -221,3 +222,7 @@ let g:pymode_syntax_space_errors = g:pymode_syntax_all
 let g:pymode_folding = 0
 
 let g:pymode_python = 'python3'
+" TODO This always brings up 'no module named black' when starting vim
+" let g:black_virtualenv = '~/.local/pipx/venvs/black'
+" Automatically run black on save
+autocmd BufWritePre *.py execute ':Black'
