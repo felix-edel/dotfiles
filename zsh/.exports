@@ -14,6 +14,10 @@ export PATH=~/.dotfiles/bin:${PATH}
 export PATH=~/.local/bin:${PATH}
 # Add poetry to path
 export PATH=~/.poetry/bin:${PATH}
+# Add go executable to path
+export PATH=/usr/local/go/bin:${PATH}
+# Add custom go modules to path
+export PATH=~/go/bin:${PATH}
 
 # Export locale settings
 export LC_ALL=en_GB.utf-8
